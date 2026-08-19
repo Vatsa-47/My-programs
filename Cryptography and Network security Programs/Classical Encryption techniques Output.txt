@@ -1,0 +1,31 @@
+Enter Plaintext:Alliance
+
+============Sample Output/Result===========
+
+Plaintext: ALLIANCE
+
+Caesar Cipher:
+Shift key: 3
+Ciphertext: DOOLDQFH
+
+Vigenere Cipher:
+Keyword: LEMON
+Ciphertext: TWPUOANI
+
+Rail Fence Cipher:
+Rails: 3
+Ciphertext:  AA LINE LC
+
+Monoalphabetic Cipher:
+Key: QWERTYUIOPASDFGHJKLZXCVBNM
+Ciphertext: QSSOQFET
+
+============================================
+
+Frequency Analysis
+Cipher              Resistance
+-----------------------------------
+Caesar Cipher       Very Low
+Rail Fence          Low
+Monoalphabetic      Medium
+Vigenere Cipher     High
