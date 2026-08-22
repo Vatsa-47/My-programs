@@ -32,7 +32,7 @@ plt.show()
 print("\nTypical English Letter Frequencies")
 print("--------------------------------")
 for letter,value in english_freq.items():
-    print("f{letter} : {value}%")
+    print(f"{letter} : {value}%")
 print("\nObservations")
 print("------------")
 print("1. Frequency distribution of the ciphertext has been calculated")
