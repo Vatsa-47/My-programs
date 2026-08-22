@@ -35,7 +35,7 @@ for letter,value in english_freq.items():
     print("f{letter} : {value}%")
 print("\nObservations")
 print("------------")
-print("1. Frequencyu distribution of the ciphertext has been calculated")
+print("1. Frequency distribution of the ciphertext has been calculated")
 print("2. Histogram shows occurence of each charecter")
 print("3. Similar frequency patterns indicate vulnerability to frequency analysis")
 print("4. Substitution and Rail fence ciphers preserve statstical charecterstics")
