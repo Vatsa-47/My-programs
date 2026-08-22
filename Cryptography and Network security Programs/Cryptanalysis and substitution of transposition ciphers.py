@@ -44,5 +44,5 @@ print("\nConclusion")
 print("-----------")
 print("The ciphertext is susceptible to frequency analysis because")
 print("classical substitution and transpositiion ciphers preserve")
-print("the statistical distributin of letters.")
+print("the statistical distribution of letters.")
 
